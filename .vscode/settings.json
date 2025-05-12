@@ -1,0 +1,5 @@
+{
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/6ddd5bff-d8d1-432a-89ef-4736ca34cb29/resourceGroups/CustomerAppServers/providers/Microsoft.Web/sites/DigitalReceipts",
+    "appService.deploySubpath": "."
+}
